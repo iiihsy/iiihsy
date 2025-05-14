@@ -1,6 +1,6 @@
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=5002&pause=1000&color=E0F3FF&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Ice!" alt="Typing SVG" /></a>
 
-<img src="https://tenor.com/en-GB/view/cat-typing-on-keyboard---i'm-cooking-gif-17132887018908126710" width="full" />
+<img src="https://tenor.com/en-GB/view/cat-typing-on-keyboard---i'm-cooking-gif-17132887018908126710" width="400" />
 
 💻 I'm a product designer passionate about simplicity, clarity, and building delightful experiences.
 
