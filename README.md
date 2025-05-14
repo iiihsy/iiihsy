@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋 I'm Ice!
 
-<!--
-**iiihsy/iiihsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a product designer passionate about simplicity, clarity, and building delightful experiences.
 
-Here are some ideas to get you started:
+🌱 Currently learning: Front-end development & gardening 🌿  
+💼 Previously worked on fintech, healthcare, and e-commerce products  
+🐱 Cat person (I have a majestic Persian!)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ My Interests
+- UI/UX Design
+- Design Systems
+- Interior & Garden Aesthetics
+- Self-learning new tools
+
+## 📈 GitHub Stats
+![Ice's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/izesudarat/)
+- [Portfolio](https://izesudarat.myportfolio.com)
