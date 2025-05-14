@@ -12,9 +12,6 @@
 - Interior & Garden Aesthetics
 - Self-learning new tools
 
-## 📈 GitHub Stats
-![Ice's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/izesudarat/)
 - [Portfolio](https://izesudarat.myportfolio.com)
