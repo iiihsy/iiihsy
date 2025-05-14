@@ -4,7 +4,7 @@
 
 🌱 Currently learning: Front-end development & gardening 🌿  
 💼 Previously worked on fintech, healthcare, and e-commerce products  
-🐱 Cat person (I have a majestic Persian!)  
+🐱 Cat person (I have a majestic Persian & Scotish Fold!)  
 
 ## ✨ My Interests
 - UI/UX Design
